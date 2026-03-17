@@ -8,7 +8,7 @@ Meu foco está em QA, realizando testes funcionais, exploratórios e de acessibi
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens
 
 <img 
     align="left" 
@@ -50,14 +50,7 @@ Meu foco está em QA, realizando testes funcionais, exploratórios e de acessibi
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
 />
-<img 
-    align="left" 
-    alt="Git"
-    title="Git" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
-/>
+
 
 <br/>
 <br/>
