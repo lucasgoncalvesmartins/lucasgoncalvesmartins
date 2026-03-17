@@ -2,13 +2,11 @@
 
 **`QA e Desenvolvedor Backend`**
 
-Me chamo Lucas Martins e sou estudante de Análise e Desenvolvimento de Sistemas.
+Me chamo Lucas Martins e sou formado em Análise e Desenvolvimento de Sistemas, com experiência em desenvolvimento de APIs RESTful e automação de testes.
 
-Tenho experiência prática no desenvolvimento de APIs RESTful e automação de testes, trabalhando com Node.js, Ruby e PHP em projetos que envolvem autenticação, persistência de dados e boas práticas de arquitetura.
+Atuo como Desenvolvedor Backend e QA, com foco em testes funcionais, testes de API e automação utilizando BDD (Cucumber), além de testes de acessibilidade (WCAG 2.2).
 
-Atuo com QA focado em testes funcionais, testes de API e automação utilizando BDD (Cucumber), além de testes de acessibilidade seguindo as diretrizes WCAG 2.2.
-
-Também possuo experiência com desenvolvimento backend utilizando padrões como MVC, integração com bancos de dados (MongoDB, PostgreSQL e MySQL) e aplicação de conceitos de segurança como autenticação JWT e criptografia de senhas com bcrypt.
+No backend, trabalho com Node.js, Ruby e PHP, aplicando boas práticas de arquitetura, integração com bancos de dados (MongoDB, PostgreSQL e MySQL) e conceitos de segurança, como JWT e bcrypt.
 
 ---
 
